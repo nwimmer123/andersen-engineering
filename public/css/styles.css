@@ -7,6 +7,7 @@
   color: white;
   text-shadow: 2px 2px 4px black;
   font-family: 'Asap', sans-serif;
+  margin-bottom: 25px;
 }
 
 .border-between > [class*='col-']:before {
@@ -15,18 +16,31 @@
  content: " ";
  left: 0;
  position: absolute;
- width: 1px;
+ width: 2px;
  top: 0;
 }
 
 #banner-phone {
   color: white;
+  margin-right: -15px;
 }
 
 #banner-title {
   padding-right: 100px;
+  font-size: 250%;
 }
 
 #banner-line-one {
   padding-right: 150px;
+}
+
+#head-shot {
+  float: left;
+  border-radius: 180px;
+  height: 200px;
+  margin: 0px 30px 15px 0px;
+}
+
+#about-text {
+  padding-top: 40px;
 }
