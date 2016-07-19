@@ -70,3 +70,8 @@ hr {
   border-width: 2px;
 }
 
+.black-link {
+  color: black;
+  cursor: pointer;
+}
+
