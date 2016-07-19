@@ -51,4 +51,11 @@
 
 p {
   font-family: 'Cabin', sans-serif;
+  font-size: 120%;
+}
+
+footer {
+  padding: 35px 0px 28px 0px;
+  background-color: #75331D;
+  font: #F0EAE9;
 }
