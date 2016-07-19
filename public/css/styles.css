@@ -59,3 +59,16 @@ footer {
   background-color: #75331D;
   font: #F0EAE9;
 }
+
+.contact {
+  background-color: #67AAE0;
+  padding: 10px 0px 10px 0px;
+}
+
+.info {
+  padding: 15px 0px 15px 0px;
+}
+
+.info-columns {
+  padding: 0px 15px 0px 15px;
+}
